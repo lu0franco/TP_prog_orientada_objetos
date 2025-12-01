@@ -5,7 +5,7 @@ En este repo se encuentra la información de los codigos utilizados para este TP
 
 1.1	Se generó un header (.h) y un Implementation (.cpp) para poder manejar las clases de sensores.
 
- ![alt text](image.png)
+ ![alt text](Capturas para readme/image.png)
  ![alt text](image-1.png)
  ![alt text](image-2.png)
  ![alt text](image-3.png)
