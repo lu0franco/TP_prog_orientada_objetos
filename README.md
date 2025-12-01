@@ -26,3 +26,6 @@ En sensor.h se agrega la definición de las clases hijas y se hace un override d
 1.3
 El código expresado en las capturas anteriores cumple con la consigna, mostrando por monitor serial los siguientes datos:
 ![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/image-7.png)
+
+
+Para poder adoptar las características de medición del sensor, en este caso un HC-SR04, se tuvo que agregar un solo método que reemplazaba la simulación de mediciones y se formuló una clase hija que corresponda a los datos de trabajo del sensor agregando atributos como pinTrig y pinEcho además del filtrado de datos recibidos
