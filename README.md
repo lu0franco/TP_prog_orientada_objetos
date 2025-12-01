@@ -19,6 +19,7 @@ En sensor.cpp se agregan los constructores de las clases hijas e inicializan a l
 En sensor.h se agrega la definición de las clases hijas y se hace un override del método generarMedicion() para que no se pisen datos randomizados de una llamada anterior
 
 ![alt text](image-6.png)
+
 1.3
 El código expresado en las capturas anteriores cumple con la consigna, mostrando por monitor serial los siguientes datos:
 ![alt text](image-7.png)
