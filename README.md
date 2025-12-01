@@ -9,11 +9,14 @@ En este repo se encuentra la información de los codigos utilizados para este TP
  ![alt text](image-1.png)
  ![alt text](image-2.png)
  ![alt text](image-3.png)
+ 
 1.2	
 En Main se definen más sensores y se printean los datos de los mismos
+
 ![alt text](image-4.png)
 
 En sensor.cpp se agregan los constructores de las clases hijas e inicializan a la clase padre con las características de cada sensor para definir el tipo
+
 ![alt text](image-5.png)
 
 En sensor.h se agrega la definición de las clases hijas y se hace un override del método generarMedicion() para que no se pisen datos randomizados de una llamada anterior
