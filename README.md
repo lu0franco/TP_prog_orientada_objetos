@@ -2,6 +2,7 @@
 En este repo se encuentra la información de los codigos utilizados para este TP. se incluye un esquematico generado en TinkerCad aunque el codigo ha sido puesto a prueba en un arduino real del cual también se adjunta una foto
 
 1
+
 1.1	Se generó un header (.h) y un Implementation (.cpp) para poder manejar las clases de sensores.
  ![alt text](image.png)
  ![alt text](image-1.png)
@@ -16,4 +17,4 @@ En sensor.h se agrega la definición de las clases hijas y se hace un override d
  ![alt text](image-6.png)
 1.3
 El código expresado en las capturas anteriores cumple con la consigna, mostrando por monitor serial los siguientes datos:
- ![alt text](image-7.png)
+![alt text](image-7.png)
