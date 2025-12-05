@@ -51,7 +51,7 @@ Para este punto se resolvió hacer los distintos pasos sobre el codigo base del 
 
 ![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_2_5.png)
 
-![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/FT_2_6.png)
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/FT_2_6.jpg)
 
 
 3)
