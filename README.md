@@ -1,7 +1,7 @@
 # TP_prog_orientada_objetos
 En este repo se encuentra la información de los codigos utilizados para este TP. se incluye un esquematico generado en TinkerCad aunque el codigo ha sido puesto a prueba en un arduino real del cual también se adjunta una foto
 
-1
+1)
 
 1.1	Se generó un header (.h) y un Implementation (.cpp) para poder manejar las clases de sensores.
 
@@ -37,3 +37,13 @@ Para poder adoptar las características de medición del sensor, en este caso un
 ![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/image-10.png)
 
 
+2)
+
+Para este punto se resolvió hacer los distintos pasos sobre el codigo base del ejercicio quedando asi de la siguiente manera:
+(insertar imagenes)
+
+3)
+
+A continuación se adjuntan imagenes del codigo y el esquemático
+
+4) En este punto se adjuntan capturas del codigo ya que no hay conexionado alguno de componentes con el arduino fuera de la conexión USB a la PC
