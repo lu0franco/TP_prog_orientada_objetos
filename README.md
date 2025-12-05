@@ -40,10 +40,38 @@ Para poder adoptar las características de medición del sensor, en este caso un
 2)
 
 Para este punto se resolvió hacer los distintos pasos sobre el codigo base del ejercicio quedando asi de la siguiente manera:
-(insertar imagenes)
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_2_1.png)
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_2_2.png)
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_2_3.png)
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_2_4.png)
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_2_5.png)
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/FT_2_6.png)
+
 
 3)
 
-A continuación se adjuntan imagenes del codigo y el esquemático
+En este punto se adjuntan capturas del codigo ya que no hay conexionado alguno de componentes con el arduino fuera de la conexión USB a la PC
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_3_1.png)
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_3_2.png)
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_3_3.png)
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_3_4.png)
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_3_5.png)
 
 4) En este punto se adjuntan capturas del codigo ya que no hay conexionado alguno de componentes con el arduino fuera de la conexión USB a la PC
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_4_1.png)
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_4_2.png)
+
+![alt text](https://github.com/lu0franco/TP_prog_orientada_objetos/blob/main/Capturas%20para%20readme/SS_4_3.png)
